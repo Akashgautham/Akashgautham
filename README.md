@@ -12,10 +12,10 @@
 ---
 
 ### 💫 About Me:
-[cite_start]I am a proactive and creative individual skilled in **Machine Learning** and **Data Analysis**[cite: 8]. [cite_start]I excel in dynamic environments and am dedicated to academic excellence with a current **CGPA of 9.82**[cite: 6, 23]. [cite_start]My goal is to leverage AI to drive positive societal change[cite: 7, 27].
+I am a proactive and creative individual skilled in **Machine Learning** and **Data Analysis**. I excel in dynamic environments and am dedicated to academic excellence with a current **CGPA of 9.82**. My goal is to leverage AI to drive positive societal change.
 
-- [cite_start]🎓 Pursuing B.Tech in **Computer Science** at SRM Institute of Science and Technology[cite: 30, 31].
-- [cite_start]🏆 **Winner** of the Smart India Hackathon 2025 Internal Hackathon and placed 6th All India[cite: 23].
+- 🎓 Pursuing B.Tech in **Computer Science** at SRM Institute of Science and Technology.
+- 🏆 **Winner** of the Smart India Hackathon 2025 Internal Hackathon and placed 6th All India.
 - 🛰️ Completed an internship at **MSSRF Chennai** in Remote Sensing and GIS, focused on vegetation trend visualization.
 
 ---
@@ -23,13 +23,13 @@
 ### 🚀 Featured Projects:
 
 * **MarineAI (Embedded Intelligent Microscopy System)** 🌊
-    [cite_start]Developed an AI-powered system on **Raspberry Pi 5** for real-time classification of marine microorganisms using **YOLOv8**, achieving **96% accuracy**[cite: 44].
+    Developed an AI-powered system on **Raspberry Pi 5** for real-time classification of marine microorganisms using **YOLOv8**, achieving **96% accuracy**.
 * **Vuner_AI** 🛡️
     A Python & Gradio tool that tests image recognition models against adversarial attacks (**FGSM, PGD**) and implements defenses like Gaussian blur and JPEG compression.
 * **UFDR-AI (Forensic Report Analysis Tool)** 🔍
-    An NLP-driven tool designed to help forensic experts extract digital evidence and visualize clues from UFDR reports more efficiently[cite: 45].
+    An NLP-driven tool designed to help forensic experts extract digital evidence and visualize clues from UFDR reports more efficiently.
 * **AgriNanba** 🚜
-    [cite_start]An AI-driven B2B marketplace connecting farmers with industries for sustainable agricultural waste management[cite: 43].
+    An AI-driven B2B marketplace connecting farmers with industries for sustainable agricultural waste management.
 
 ---
 
